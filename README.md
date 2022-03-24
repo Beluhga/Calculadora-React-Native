@@ -1,5 +1,7 @@
 # Calculadora-React-Native
 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Beluhga/Calculadora-React-Native/blob/main/LICENSE) 
+
 # Sobre o projeto
 
 Calculadora feita no React-Native,
