@@ -27,10 +27,13 @@ Pré-requisitos: npm / yarn
 
 ```bash
 # clonar repositório
-git clone https://github.com/Beluhga/Campo-Minado
+git clone https://github.com/Beluhga/Calculadora-React-Native
 
-# entrar na pasta do projeto front end web
-cd Campo-Minado
+# entrar na pasta do projeto Mobile
+cd Caculadora-react-native
+
+# instala dependências
+npm install
 
 # executar o projeto
 Expo start
